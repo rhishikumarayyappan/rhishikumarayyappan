@@ -1,6 +1,6 @@
 <!-- ========================== HEADER ========================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rhishi%20Kumar%20Ayyappan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Applied%20AI%20Engineer%20%E2%80%A2%20Trustworthy%20%26%20Agentic%20AI&descAlignY=58&descSize=18&animation=fadeIn" alt="Rhishi Kumar Ayyappan" />
+  <img src="./assets/header.svg" width="100%" alt="Rhishi Kumar Ayyappan — Applied AI Engineer" />
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/rhishikumarayyappan"><img src="https://img.shields.io/badge/GitHub-rhishikumarayyappan-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/rhishi-ayyappan"><img src="https://img.shields.io/badge/LinkedIn-rhishi--ayyappan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://huggingface.co/rhishikumarayyappan"><img src="https://img.shields.io/badge/Hugging%20Face-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   <img src="https://komarev.com/ghpvc/?username=rhishikumarayyappan&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 </p>
@@ -176,10 +177,11 @@ Benchmarks probing the limits of LLM reasoning — **Chain-of-Thought collapse p
 I'm always open to conversations about **trustworthy AI, agentic systems, and AI governance** — or collaborating on something new.
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/rhishi-ayyappan"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/rhishikumarayyappan"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://huggingface.co/rhishikumarayyappan"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
